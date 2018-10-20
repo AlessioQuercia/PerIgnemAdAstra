@@ -2,7 +2,6 @@ package beans;
 
 import javax.xml.bind.annotation.XmlRootElement;
 import java.io.File;
-import java.sql.Timestamp;
 
 @XmlRootElement(name = "report")
 public class Report
@@ -59,6 +58,16 @@ public class Report
         this.danger = danger;
         this.photo = photo;
         this.description = description;
+    }
+
+    public int getId()
+    {
+        return id;
+    }
+
+    public void setStatus(ReportStatus status)
+    {
+        this.status = status;
     }
 
     @Override

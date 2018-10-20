@@ -51,12 +51,54 @@ public class Data
         return copy;
     }
 
+    public List<Fire> getFiresList()
+    {
+        ArrayList<Fire> copy = null;
+
+        synchronized (firesList)
+        {
+            copy = new ArrayList<>(firesList);
+        }
+
+        return copy;
+    }
+
+    public List<Alert> getAlertsList()
+    {
+        ArrayList<Alert> copy = null;
+
+        synchronized (alertsList)
+        {
+            copy = new ArrayList<>(alertsList);
+        }
+
+        return copy;
+    }
+
     public void addReport(Report report)
     {
         synchronized (reportsList)
         {
             reportsList.add(report);
             System.out.println(reportsList);
+        }
+    }
+
+    public void addFire(Fire fire)
+    {
+        synchronized (firesList)
+        {
+            firesList.add(fire);
+            System.out.println(firesList);
+        }
+    }
+
+    public void addAlert(Alert alert)
+    {
+        synchronized (alertsList)
+        {
+            alertsList.add(alert);
+            System.out.println(alertsList);
         }
     }
 
@@ -75,4 +117,17 @@ public class Data
         return result;
     }
 
+    public Report getReportById(int id)
+    {
+        Report report = null;
+        synchronized (reportsList)
+        {
+            for (Report r : reportsList)
+            {
+                if (r.getId() == id)
+                    report = r;
+            }
+        }
+        return report;
+    }
 }

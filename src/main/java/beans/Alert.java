@@ -8,8 +8,11 @@ public class Alert
     private String description;
     private double radius;
 
-    public Alert()
+    public Alert(int id, double latitude, double longitude, double radius)
     {
-
+        this.id = id;
+        this.latitude = latitude;
+        this.longitude = longitude;
+        this.radius = radius;
     }
 }

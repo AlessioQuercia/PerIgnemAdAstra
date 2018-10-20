@@ -32,31 +32,36 @@ public class Services
 
 
 
-//    //get the fire list
-//    @GET
-//    @Produces({"application/json", "application/xml"})
-//    public Response getFire(){
-//
-////        City.getInstance().toString();
-////        System.out.println(City.getInstance().getNodesList().toString());
-//        return Response.ok(Data.getInstance().getFiresList()).build();
-//
-//    }
-//
-//
-//    //get the alerts list
-//    @GET
-//    @Produces({"application/json", "application/xml"})
-//    public Response getAlerts(){
-//
-////        City.getInstance().toString();
-////        System.out.println(City.getInstance().getNodesList().toString());
-//        return Response.ok(Data.getInstance().getAlertsList()).build();
-//
-//    }
+    //get the fire list
+    @GET
+    @Produces({"application/json", "application/xml"})
+    public Response getFire(){
+
+        List<Fire> firesList = Data.getInstance().getFiresList();
+
+        System.out.println(firesList);
+
+        Gson json = new Gson();
+
+        return Response.ok(json.toJson(firesList)).header("Access-Control-Allow-Origin", "*").build();
+    }
 
 
-    //It allows to add a new Node to the city grid (and to the list of nodes)
+    //get the alerts list
+    @GET
+    @Produces({"application/json", "application/xml"})
+    public Response getAlerts(){
+
+        List<Alert> alertsList = Data.getInstance().getAlertsList();
+
+        System.out.println(alertsList);
+
+        Gson json = new Gson();
+
+        return Response.ok(json.toJson(alertsList)).header("Access-Control-Allow-Origin", "*").build();
+    }
+
+
     @Path("addReport/{time}/{latitude}/{longitude}/{danger}")
     @POST
     @Produces({"application/json", "application/xml"})
@@ -75,35 +80,55 @@ public class Services
     }
 
 
-//    //It allows to add a new Node to the city grid (and to the list of nodes)
-//    @Path("add")
-//    @POST
-//    @Consumes({"application/json", "application/xml"})
-//    public Response addFuoco(Fire fire)
-//    {
-//
-//        return Response.ok().build();
-//    }
-//
-//
-//    //It allows to add a new Node to the city grid (and to the list of nodes)
-//    @Path("add")
-//    @POST
-//    @Consumes({"application/json", "application/xml"})
-//    public Response addAlert(Alert alert)
-//    {
-//
-//        return Response.ok().build();
-//    }
-//
-//
-//    //Update report (changing its status)
-//    @Path("update")
-//    @PUT
-//    @Consumes({"application/json", "application/xml"})
-//    public Response updateReport(Report report)
-//    {
-//
-//        return Response.ok().build();
-//    }
+    @Path("addRFire/{latitude}/{longitude}/{radius}")
+    @POST
+    @Produces({"application/json", "application/xml"})
+    public Response addFire(@PathParam("latitude") double latitude,
+                              @PathParam("longitude") double longitude, @PathParam("radius") double radius)
+    {
+        int id = new Random().nextInt();
+        Fire fire = new Fire(id, latitude, longitude, radius);
+        Data.getInstance().addFire(fire);
+
+        System.out.println(fire);
+
+        return Response.ok().header("Access-Control-Allow-Origin", "*")
+                .header("Access-Control-Allow-Methods", "GET, POST, DELETE, PUT")
+                .build();
+    }
+
+
+
+    @Path("addRFire/{latitude}/{longitude}/{radius}")
+    @POST
+    @Produces({"application/json", "application/xml"})
+    public Response addAlert(@PathParam("latitude") double latitude,
+                            @PathParam("longitude") double longitude, @PathParam("radius") double radius)
+    {
+        int id = new Random().nextInt();
+        Alert alert = new Alert(id, latitude, longitude, radius);
+        Data.getInstance().addAlert(alert);
+
+        System.out.println(alert);
+
+        return Response.ok().header("Access-Control-Allow-Origin", "*")
+                .header("Access-Control-Allow-Methods", "GET, POST, DELETE, PUT")
+                .build();
+    }
+
+
+    //Update report (changing its status)
+    @Path("updateReport/{id}/{status}")
+    @PUT
+    @Consumes({"application/json", "application/xml"})
+    public Response updateReport(@PathParam("id") int id, @PathParam("status") ReportStatus status)
+    {
+
+        Report report = Data.getInstance().getReportById(id);
+
+        if (report != null)
+            report.setStatus(status);
+
+        return Response.ok().build();
+    }
 }
