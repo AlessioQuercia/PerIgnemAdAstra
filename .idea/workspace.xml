@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Node:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0aea40d8-88ee-4dc9-a0c2-9d84a6aefab1" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Progetto_SDP$Node.ic" NAME="Node Coverage Results" MODIFIED="1528932800622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>beans.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Progetto_SDP$ServerCloud.ic" NAME="ServerCloud Coverage Results" MODIFIED="1529247052833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Progetto_SDP$Analist.ic" NAME="Analist Coverage Results" MODIFIED="1527685511985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GuestService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/services/GuestService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FiremanService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/services/FiremanService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getState()</find>
+      <find>node.getStat</find>
+      <find>coordinatorPo</find>
+      <find>setState</find>
+      <find>CoordinatorPort</find>
+      <find>set</find>
+      <find>coordinatorPor</find>
+      <find>while</find>
+      <find>sendToCoo</find>
+      <find />
+      <find>sendM</find>
+      <find>send</find>
+      <find>node</find>
+      <find>State()</find>
+      <find>getNodesList</find>
+      <find>getNodesList()</find>
+      <find>THREAD.</find>
+      <find>getState</find>
+      <find>State(</find>
+      <find>coordinatorPort</find>
+      <find>stat</find>
+      <find>Stat</find>
+      <find />
+      <find>localS</find>
+      <find>delta</find>
+      <find>midnigh</find>
+      <find />
+      <find>add</find>
+      <find>THREAD</find>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace>askFo</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/beans/Stat.java" />
+        <option value="$PROJECT_DIR$/src/Analist.java" />
+        <option value="$PROJECT_DIR$/src/beans/State.java" />
+        <option value="$PROJECT_DIR$/src/Tester.java" />
+        <option value="$PROJECT_DIR$/src/services/AnalistsService.java" />
+        <option value="$PROJECT_DIR$/src/beans/City.java" />
+        <option value="$PROJECT_DIR$/src/services/NodesService.java" />
+        <option value="$PROJECT_DIR$/src/beans/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/simulators/SensorsSimulator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/SensorsService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/simulators/SensorRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/simulators/Sensor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Utility.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MyUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/other/MyUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/other/Structure.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/LocalStat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/GlobalStat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/Buffer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/simulators/SensorServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/MeasurementsBuffer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/NodeMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/CoordResponseMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/ElectionResponseMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/NodeRequestMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/Message.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/NodeResponseMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/StatMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/NodeServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/ElectionState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ServerCloud.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/NodeServiceGrpc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/CoordServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/MessagesBuffer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/ElectionRequestMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/AnalistsService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Analist.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/City.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/NodeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/NodeClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/simulators/Stream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/ElectionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/Stat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/simulators/Simulator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/NodesService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/NodeServerToSensors.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beans/NodeServerToNodes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/FiremanService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="24" />
+    <option name="width" value="1264" />
+    <option name="height" value="798" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PerIgnemAdAstra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progetto_SDP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PerIgnemAdAstra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progetto_SDP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PerIgnemAdAstra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progetto_SDP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PerIgnemAdAstra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progetto_SDP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PerIgnemAdAstra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progetto_SDP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PerIgnemAdAstra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="sout&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alessio\Documents\GitHub\Progetto_SDP\src\simulators" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="beans" />
+      <recent name="simulators" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alessio\Documents\GitHub\Progetto_SDP\target" />
+      <recent name="C:\Users\Alessio\Documents\GitHub\Progetto_SDP\src\main\proto" />
+      <recent name="C:\Users\Alessio\Documents\GitHub\Progetto_SDP" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Node">
+    <configuration name="Analist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Analist" />
+      <module name="PerIgnemAdAstra" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Node" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="beans.Node" />
+      <module name="PerIgnemAdAstra" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beans.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SensorsSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simulators.SensorsSimulator" />
+      <module name="PerIgnemAdAstra" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simulators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ServerCloud" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServerCloud" />
+      <module name="PerIgnemAdAstra" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tester" />
+      <module name="PerIgnemAdAstra" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="GlassFish 5.0.0" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 5.0.0" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file id="GlassFish" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Node.jar" type="JarApplication" factoryName="JAR Application">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Node_jar/Node.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="PerIgnemAdAstra" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="GlassFish Server.GlassFish 5.0.0" />
+      <item itemvalue="JAR Application.Node.jar" />
+      <item itemvalue="Application.ServerCloud" />
+      <item itemvalue="Application.Tester" />
+      <item itemvalue="Application.Analist" />
+      <item itemvalue="Application.Node" />
+      <item itemvalue="Application.SensorsSimulator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Node" />
+        <item itemvalue="Application.SensorsSimulator" />
+        <item itemvalue="Application.ServerCloud" />
+        <item itemvalue="Application.Analist" />
+        <item itemvalue="Application.Tester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0aea40d8-88ee-4dc9-a0c2-9d84a6aefab1" name="Default" comment="" />
+      <created>1526059061809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526059061809</updated>
+      <workItem from="1526059066879" duration="2432000" />
+      <workItem from="1526068680102" duration="7635000" />
+      <workItem from="1526080674181" duration="842000" />
+      <workItem from="1526108856483" duration="11230000" />
+      <workItem from="1526156106567" duration="6425000" />
+      <workItem from="1526191815175" duration="6808000" />
+      <workItem from="1526225515578" duration="4971000" />
+      <workItem from="1526238326755" duration="5799000" />
+      <workItem from="1526285384439" duration="3978000" />
+      <workItem from="1526298616131" duration="3849000" />
+      <workItem from="1526323186879" duration="6878000" />
+      <workItem from="1526628416180" duration="7149000" />
+      <workItem from="1526720639426" duration="5099000" />
+      <workItem from="1526743470542" duration="5036000" />
+      <workItem from="1526750025237" duration="5186000" />
+      <workItem from="1526756397678" duration="872000" />
+      <workItem from="1526758538288" duration="2175000" />
+      <workItem from="1526799747837" duration="1422000" />
+      <workItem from="1527091707128" duration="3362000" />
+      <workItem from="1527231980222" duration="9677000" />
+      <workItem from="1527244799891" duration="1233000" />
+      <workItem from="1527253959041" duration="12227000" />
+      <workItem from="1527607260147" duration="18793000" />
+      <workItem from="1527665009430" duration="22924000" />
+      <workItem from="1527698270603" duration="282000" />
+      <workItem from="1527926518741" duration="11193000" />
+      <workItem from="1527957799327" duration="3897000" />
+      <workItem from="1528017008141" duration="4627000" />
+      <workItem from="1528025589412" duration="26620000" />
+      <workItem from="1528056688576" duration="2854000" />
+      <workItem from="1528098712269" duration="9577000" />
+      <workItem from="1528190138854" duration="8149000" />
+      <workItem from="1528199286656" duration="614000" />
+      <workItem from="1528203345837" duration="5601000" />
+      <workItem from="1528228867843" duration="5091000" />
+      <workItem from="1528240812748" duration="2944000" />
+      <workItem from="1528271878728" duration="17528000" />
+      <workItem from="1528299738451" duration="4599000" />
+      <workItem from="1528318892479" duration="2000000" />
+      <workItem from="1528359705753" duration="4451000" />
+      <workItem from="1528442670003" duration="10964000" />
+      <workItem from="1528467172101" duration="5740000" />
+      <workItem from="1528475583252" duration="658000" />
+      <workItem from="1528540495350" duration="28767000" />
+      <workItem from="1528619934974" duration="4432000" />
+      <workItem from="1528624380830" duration="4208000" />
+      <workItem from="1528644359320" duration="17082000" />
+      <workItem from="1528701899732" duration="22454000" />
+      <workItem from="1528736056233" duration="11957000" />
+      <workItem from="1528789340868" duration="9085000" />
+      <workItem from="1528800938454" duration="29271000" />
+      <workItem from="1528840432746" duration="2525000" />
+      <workItem from="1528843010000" duration="3029000" />
+      <workItem from="1528875788242" duration="34090000" />
+      <workItem from="1528963851239" duration="55942000" />
+      <workItem from="1529409080860" duration="20293000" />
+      <workItem from="1529484447260" duration="7844000" />
+      <workItem from="1529749569713" duration="3334000" />
+      <workItem from="1530027360823" duration="833000" />
+      <workItem from="1530044918761" duration="9735000" />
+      <workItem from="1530056341485" duration="391000" />
+      <workItem from="1530090027852" duration="799000" />
+      <workItem from="1530126975222" duration="639000" />
+      <workItem from="1530131942580" duration="39614000" />
+      <workItem from="1540039474323" duration="924000" />
+      <workItem from="1540040425215" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="590701000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30842608" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3290938" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20131771" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990461" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3290938" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="10" side_tool="true" weight="0.329429" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290938" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.329429" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/CoordServiceOuterClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/CoordResponseMessage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/ElectionResponseMessage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/Message.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/NodeRequestMessage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/NodeResponseMessage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/StatMessage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/NodeServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/CoordServiceGrpc.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/ElectionState.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/State.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/simulators/SensorServiceOuterClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/simulators/SensorServiceGrpc.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/simulators/PM10Simulator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/simulators/Measurement.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/AssertionError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="744" selection-start-line="744" selection-end-line="744" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/nio/ch/SocketDispatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/NodeServiceOuterClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/NodeServiceGrpc.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/MessagesBuffer.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/grpc/grpc-stub/1.7.0/grpc-stub-1.7.0.jar!/io/grpc/stub/StreamObserver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/ElectionServiceGrpc.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="352" column="30" selection-start-line="352" selection-start-column="30" selection-end-line="352" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/ElectionRequestMessage.java" />
+    <entry file="file://$PROJECT_DIR$/PerIgnemAdAstra.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Analist.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tester.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ServerCloud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/SensorsService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/MeasurementsBuffer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/simulators/SensorsSimulator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/NodeClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/simulators/SensorServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/ElectionServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/CoordServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/simulators/SensorStream.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/simulators/Stream.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/simulators/Sensor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/NodeServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/Stat.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/simulators/Simulator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/City.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/AnalistsService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/NodesService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/Node.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/NodeServerToSensors.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beans/NodeServerToNodes.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/GuestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/FiremanService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Node:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Progetto_SDP</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.gson:gson:2.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
